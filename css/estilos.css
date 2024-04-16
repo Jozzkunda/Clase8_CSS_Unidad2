@@ -1,0 +1,11 @@
+/* importo desde google fonts elijo fuente GET EMBED CODE--> @import */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+/* Incorporo las modificaciones de la clse y aplico a todo el documento  */
+*  {
+        font-family: "Quicksand", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 550;
+        font-style: normal;
+     }
